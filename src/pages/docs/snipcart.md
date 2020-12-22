@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Snipcart
 weight: 0
 excerpt: lorem-ipsum
 template: docs
